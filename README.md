@@ -7,7 +7,9 @@ Me chamo Gustavo  Vieira Bastos, estudante de programação apaixonado por tecno
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gvbast0s&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=gvbast0s&icon=2&color=12)](https://visitcount.itsvg.in)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
