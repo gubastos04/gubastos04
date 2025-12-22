@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Gustavo Bastos, programador apaixonado por tecnologia e inovação. Atuo como freelancer atualmente, desenvolvendo soluções sob medida para empresas e profissionais de diversos segmentos. Além disso desenvolvo scripts para fivem utilizando lua.
+Me chamo Gustavo  Vieira Bastos, estudante de programação apaixonado por tecnologia e inovação. Não atuo atualmente na área, porém, estou em busca da minha primeira oportunidade.
 
 
 # 💻 Tech Stack:
