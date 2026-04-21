@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Gustavo  Vieira Bastos, estudante de programação apaixonado por tecnologia e inovação. Não atuo atualmente na área, porém, estou em busca da minha primeira oportunidade.
+Me chamo Gustavo  Vieira Bastos
 
 
 # 💻 Tech Stack:
