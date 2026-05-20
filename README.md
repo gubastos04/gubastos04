@@ -96,7 +96,7 @@ Olá! Meu nome é **Gustavo**, tenho **21 anos** e moro atualmente em **São Pau
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gubastos04&show_icons=true&theme=tokyonight)](https://github.com/gubastos04/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </div>
 
