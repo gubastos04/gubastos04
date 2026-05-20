@@ -122,7 +122,6 @@ Olá! Meu nome é **Gustavo**, tenho **21 anos** e moro atualmente em **São Pau
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/gustavo-vieira-bastos/])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gustavovieirabastos.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121213?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portifolio-xi-one-61.vercel.app)
 
