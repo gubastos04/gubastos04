@@ -1,10 +1,5 @@
-# 👨‍💻 Gustavo Bastos
-
-<div align="center">
-
 ### Full Stack Developer • Frontend Enthusiast • Data & AI Explorer
 
-</div>
 ---
 
 # 🚀 Sobre Mim
