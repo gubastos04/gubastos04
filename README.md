@@ -97,13 +97,9 @@ Olá! Meu nome é **Gustavo**, tenho **21 anos** e moro atualmente em **São Pau
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gubastos04&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubastos04&theme=tokyonight&hide_border=true&layout=compact" />
 
 </div>
 
