@@ -92,12 +92,21 @@ Olá! Meu nome é **Gustavo**, tenho **21 anos** e moro atualmente em **São Pau
 
 </tr>
 </table>
+
+---
+
+# 📊 GitHub Stats
+
 # 📊 GitHub Stats
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gubastos04)](https://github.com/anuraghazra/github-readme-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gubastos04&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubastos04&theme=tokyonight&hide_border=true&layout=compact" />
+
 </div>
+
 ---
 
 # 🐍 Contribution Snake
@@ -127,7 +136,7 @@ Olá! Meu nome é **Gustavo**, tenho **21 anos** e moro atualmente em **São Pau
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([#](https://www.linkedin.com/in/gustavo-vieira-bastos/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/gustavo-vieira-bastos/])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gustavovieirabastos.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121213?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portifolio-xi-one-61.vercel.app)
 
