@@ -4,12 +4,7 @@
 
 ### Full Stack Developer • Frontend Enthusiast • Data & AI Explorer
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=gubastos04&label=Profile%20Views&color=700143&style=for-the-badge" alt="profile views" />
-</p>
-
 </div>
-
 ---
 
 # 🚀 Sobre Mim
